@@ -1,2 +1,2 @@
-# TTA
+# Tech Talent Academy
 Home Learning
