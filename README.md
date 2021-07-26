@@ -1,2 +1,2 @@
-# Tech Talent Academy
+# TTA / Women in Data Academy
 Home Learning Tasks
